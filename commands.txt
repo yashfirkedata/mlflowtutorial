@@ -6,3 +6,7 @@ pip install -r requirements.txt
 
 mlflow ui 
 #then click url 
+
+# when u run experiments.py, everytime mlflow will log the experiements into "mlruns" folder
+# to see them in a proper ui, use command $mlflow ui
+
